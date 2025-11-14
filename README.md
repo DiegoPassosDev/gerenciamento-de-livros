@@ -276,21 +276,6 @@ cor11 = "#f2f4f2" # Cinza muito claro (campos readonly)
 - Janelas centralizadas na tela
 - Fonte padrão: Ivy (11-16pt)
 
-## 📊 Script de Teste (test.py)
-
-O arquivo `test.py` popula o banco com dados de exemplo:
-
-**20 Usuários incluindo:**
-- João Silva, Maria Santos, Pedro Oliveira, Ana Costa, etc.
-- Endereços fictícios em diferentes cidades
-- Emails únicos
-- Telefones com diferentes DDDs
-
-**30 Livros incluindo:**
-- Clássicos brasileiros: Dom Casmurro, Macunaíma, Vidas Secas, etc.
-- Clássicos internacionais: 1984, O Pequeno Príncipe, Harry Potter, etc.
-- Autores: Machado de Assis, Jorge Amado, George Orwell, J.K. Rowling, etc.
-- ISBNs válidos e anos de publicação reais
 
 Execute com:
 ```bash
