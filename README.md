@@ -352,7 +352,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para mais detalhes sobre nosso
 
 - 🐛 Para reportar bugs, abra uma [issue](https://github.com/seu-usuario/gerenciamento_de_livros/issues)
 - 💡 Para sugerir melhorias, abra uma [issue](https://github.com/seu-usuario/gerenciamento_de_livros/issues) com a tag `enhancement`
-- 📧 Para contato direto: seu-email@example.com
+- 📧 Para contato direto: fluxit@gmail.com
 
 ## 🙏 Agradecimentos
 
