@@ -734,8 +734,6 @@ def list_books():
     list_books = read_books()
 
     # Criando a tabela para visualizar os livros
-
-    # Criando a tabela para visualizar os usuários
     list_header = ["ID", "Titulo", "Autor", "Editora", "Ano Publicação", "ISBN"]
     global tree
     tree = Treeview(
